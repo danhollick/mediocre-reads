@@ -1,0 +1,19 @@
+/**
+ * This injects Tailwind's utility classes and any utility classes registered
+ * by plugins.
+ */
+ /* Start purging... */
+ @tailwind components;
+
+ html,
+ body {
+   @apply bg-white dark:bg-grey-dark;
+ }
+
+ .btn-blue {
+    @apply px-4 py-2 font-bold text-white bg-blue-500 rounded;
+  }
+
+   /* Stop purging. */
+ 
+ 
