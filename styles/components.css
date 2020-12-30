@@ -10,10 +10,30 @@
    @apply bg-white dark:bg-grey-dark;
  }
 
- .btn-blue {
-    @apply px-4 py-2 font-bold text-white bg-blue-500 rounded;
-  }
+ h1 {
+  @apply text-grey-darkest text-3xl font-serif   dark:text-grey-faint max-w-prose;
+}
 
-   /* Stop purging. */
+h2 {
+  @apply text-grey-darkest text-2xl  font-serif  dark:text-grey-faint max-w-prose;
+}
+
+h3 {
+  @apply text-grey-darkest text-xl  font-serif  dark:text-grey-faint max-w-prose;
+}
+
+h4 {
+  @apply text-grey-darkest dark:text-grey-faint font-sans text-xl max-w-prose;
+}
+
+h5 {
+  @apply text-grey-light dark:text-grey-light  font-sans text-xl max-w-prose;
+}
+
+h6 {
+  @apply text-grey-darkest dark:text-grey-faint font-sans text-base max-w-prose;
+}
+
+  /* Stop purging. */
  
  

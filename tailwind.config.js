@@ -10,9 +10,17 @@ module.exports = {
       boxShadow: {
         massive: '0px 20px 40px rgba(0, 0, 0, 0.12)',
         massiveHover: '0px 30px 60px rgba(0, 0, 0, 0.12)',
+        massiveDark: '0px 20px 40px rgba(0, 0, 0, 1)',
+        massiveHoverDark: '0px 30px 60px rgba(0, 0, 0, 1)',
       },
       maxWidth: {
         full: '1080px',
+      },
+      height: {
+        bookListItemCover: '161px',
+      },
+      width: {
+        bookListItemCover: '106px',
       },
       colors: {
         primary: '#72DEC2',
@@ -26,6 +34,7 @@ module.exports = {
       },
       gridTemplateColumns: {
         nav: '1fr auto',
+        bookItem: 'auto 1fr auto',
       },
     },
   },

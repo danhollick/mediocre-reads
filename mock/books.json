@@ -1,0 +1,851 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 362,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "_xcLc9fkKsYC",
+        "etag": "FG7vQconnTM",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/_xcLc9fkKsYC",
+        "volumeInfo": {
+          "title": "Dan Brown's The Lost Symbol",
+          "subtitle": "The Ultimate Unauthorized and Independent Reading Guide",
+          "authors": [
+            "Alex Carmine"
+          ],
+          "publisher": "Punked Books",
+          "publishedDate": "2009",
+          "description": "Dan Brown's 'The Lost Symbol' was the most anticipated novel of 2009, and was the literary event of the year. Alex Carmine examines all the themes in depth, and provides a chapter-by-chapter analysis of 'The Lost Symbol'. From Alex's assessment of the novel, it is very much apparent that Dan Brown has not only been adhering to his own formula, but that he has also been following Joseph Campbell's concept of the hero's journey. We know that Dan Brown likes to play with the names of his characters, so Alex explores these in great detail. In this way, Alex reveals the name of the real American family upon whom the Solomons are based. Alex also shows that, following its development within 'The Da Vinci Code', Dan Brown's still very much in tune with his 'sacred feminine' side, with his stunning representation of womb envy. Dan Brown's fascinating depiction of masculinity within this novel is studied too. In addition to this, Alex explores the literary devices that Dan Brown employs, and the magical sleights of hand that he uses to make the reader look the wrong way. Indeed, one of the main arguments in this book is that Dan Brown has hidden much of the true meaning of 'The Lost Symbol' behind various veils of allegory, much as the Masons do with regards to their secrets, and like the Symbologist Robert Langdon, Alex reveals these meanings to you. However, Dan Brown is an author who also likes to reward his readers, so Alex examines the clues about the novel that he disseminated prior to publication via Facebook and Twitter. Furthermore, Alex considers the various Masonic practices depicted within the novel, and bring to the fore the conspiracy theories that surround this mysterious fraternity. Alex Carmine's very close reading of the novel literally leaves no stone uncovered, and will transform your own interpretation of the text.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781908375018"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1908375019"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 156,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 7,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=_xcLc9fkKsYC&pg=PA142&dq=dan+brown&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.no/books?id=_xcLc9fkKsYC&dq=dan+brown&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Dan_Brown_s_The_Lost_Symbol.html?hl=&id=_xcLc9fkKsYC"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_xcLc9fkKsYC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "In Conclusion: Why \u003cb\u003eDan Brown\u003c/b\u003e isn&#39;t so dumb after all \u003cb\u003eDan Brown\u003c/b\u003e is often \u003cbr\u003e\naccused of writing brainless thrillers that sink to the lowest common denominator. \u003cbr\u003e\nFor instance, during a lecture to University of Maine students in 2005, Stephen \u003cbr\u003e\nKing&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bLUBtlSv-qkC",
+        "etag": "kwtbxOe4rWQ",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/bLUBtlSv-qkC",
+        "volumeInfo": {
+          "title": "The Gospel According to Dan Brown",
+          "authors": [
+            "Jeff Dunn",
+            "Craig Bubeck"
+          ],
+          "publisher": "David C Cook",
+          "publishedDate": "2006",
+          "description": "There is a consistent gospel that Dan Brown preaches throughout all of his stories, and it profoundly contrasts the Bible's Gospel. You can't have both--a choice must be made. Stories are more than entertainment--they form our worldview. This book will lift up Brown's gospel against Christianity's biblical Gospel and help fans of Brown's books discern messages that are truly fiction and examine the new world view preached in his novels.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0781444403"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780781444408"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 237,
+          "printType": "BOOK",
+          "categories": [
+            "Religion"
+          ],
+          "averageRating": 1,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.0.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bLUBtlSv-qkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bLUBtlSv-qkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=bLUBtlSv-qkC&pg=PA96&dq=dan+brown&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.no/books?id=bLUBtlSv-qkC&dq=dan+brown&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Gospel_According_to_Dan_Brown.html?hl=&id=bLUBtlSv-qkC"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Gospel_According_to_Dan_Brown-sample-pdf.acsm?id=bLUBtlSv-qkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bLUBtlSv-qkC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "A Different Tune If we were to gauge Brown&#39;s success based on his first two \u003cbr\u003e\npublished works, we would conclude that Brown the writer had no ... In actuality, \u003cbr\u003e\nboth books were written by \u003cb\u003eDan Brown\u003c/b\u003e, although neither one is listed on his Web \u003cbr\u003e\nsite."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "7aPqemZwoi4C",
+        "etag": "/QThQBVyU5I",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/7aPqemZwoi4C",
+        "volumeInfo": {
+          "title": "Dan Brown's Road to Success",
+          "subtitle": "An Unauthorized Biography of the Creator of The Da Vinci Code",
+          "authors": [
+            "D. M. Brown"
+          ],
+          "publisher": "Lulu.com",
+          "publishedDate": "2005",
+          "description": "Examines Brown's early years, his journey to the top of the New York Times Bestseller List, and his life as a novelist.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781411643840"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1411643844"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 76,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "averageRating": 2,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.1.0.preview.3",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=7aPqemZwoi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=7aPqemZwoi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=7aPqemZwoi4C&pg=PA37&dq=dan+brown&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.no/books?id=7aPqemZwoi4C&dq=dan+brown&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Dan_Brown_s_Road_to_Success.html?hl=&id=7aPqemZwoi4C"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/Dan_Brown_s_Road_to_Success-sample-epub.acsm?id=7aPqemZwoi4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=7aPqemZwoi4C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "the New York Times&#39; bestseller list contained four \u003cb\u003eDan Brown\u003c/b\u003e novels. 19 But, by \u003cbr\u003e\nthe end of 2004, \u003cb\u003eDan Brown&#39;s\u003c/b\u003e fourth novel wasn&#39;t just a book – it was a \u003cbr\u003e\nphenomenon. At the Louvre, the famous Paris art museum, fans lined up for “\u003cbr\u003e\nCracking the&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5mzmBgAAQBAJ",
+        "etag": "7Q1yQ8g8REE",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/5mzmBgAAQBAJ",
+        "volumeInfo": {
+          "title": "Inferno",
+          "authors": [
+            "Dan Brown"
+          ],
+          "publisher": "Bazarforlag AS",
+          "publishedDate": "2013-05-14",
+          "description": "I hjertet av Italia trekkes ikonografen Robert Langdon inn i en spennende verden som sentreres rundt et av historiens mest fascinerende, mørke og mystiske litterære mesterverk - Dantes \"Inferno\". Langdon settes opp mot en skremmende motstander og slåss med koder og symboler som fører ham dypt inn i klassisk kunst, hemmelige korridorer og avansert vitenskap. Gjennom en heftig jakt hvor det er umulig å fastslå hvem han kan stole på, sliter Langdon med å finne svar - før det er for sent, og verden vil bli ugjenkallelig forandret. En unik cocktail av heseblesende underholdning og forrykende spenning. ”Brown er en eventyrforteller med hemningsløs fantasi.” - Per Haddal, Aftenposten",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788280875839"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8280875832"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 544,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5mzmBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5mzmBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "no",
+          "previewLink": "http://books.google.no/books?id=5mzmBgAAQBAJ&printsec=frontcover&dq=dan+brown&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=5mzmBgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5mzmBgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 129,
+            "currencyCode": "NOK"
+          },
+          "retailPrice": {
+            "amount": 112.88,
+            "currencyCode": "NOK"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=5mzmBgAAQBAJ&rdid=book-5mzmBgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 129000000,
+                "currencyCode": "NOK"
+              },
+              "retailPrice": {
+                "amountInMicros": 112880000,
+                "currencyCode": "NOK"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/Inferno-sample-epub.acsm?id=5mzmBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/Inferno-sample-pdf.acsm?id=5mzmBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5mzmBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "I hjertet av Italia trekkes ikonografen Robert Langdon inn i en spennende verden som sentreres rundt et av historiens mest fascinerende, mørke og mystiske litterære mesterverk - Dantes &quot;Inferno&quot;."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "8LP6DAAAQBAJ",
+        "etag": "/gBfge5qChY",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/8LP6DAAAQBAJ",
+        "volumeInfo": {
+          "title": "The Dan Brown Craze",
+          "subtitle": "An Analysis of His Formula for Thriller Fiction",
+          "authors": [
+            "Zhenwu Zhu",
+            "Aiping Zhang"
+          ],
+          "publisher": "Cambridge Scholars Publishing",
+          "publishedDate": "2016-05-11",
+          "description": "Since the Chinese translation of The Da Vinci Code was released in China in 2004, the “Dan Brown Craze” has swept across the country. All of Brown’s novels have subsequently been translated into Chinese and sold millions of copies. No living foreign writer has generated so much media coverage and scholarship in China within such a short period of time; not even Toni Morrison or J.K. Rowling. Brown’s rendering of dichotomies, such as science and religion, humanity and divinity, good and evil, and liberty and privacy, resonates well with his Chinese readers because they feel that these issues are no longer irrelevant to them. They see an urgent need for a revision, if not an entire redefinition, of their existing beliefs and values. This book examines the plot, characterization, themes, setting, codes, knowledge, institutions, and techniques in his novels, and delivers a careful textual analysis, a selective dissemination of relevant information on different subjects, and a perceptive comparison between Brown and other Chinese and Western writers. As such, it shows how his thrillers have been appreciated and studied in China, and what kinds of discoveries, challenges, controversies, and insights have surfaced in the Chinese appreciation of Brown’s novels. Furthermore, the book explores why the “Dan Brown Craze” has lasted this long and exerted a broad and far-reaching impact upon the reading, writing, studying, translating, publishing, and marketing of fiction in China.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781443894159"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "144389415X"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 400,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8LP6DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8LP6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=8LP6DAAAQBAJ&pg=PA379&dq=dan+brown&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=8LP6DAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8LP6DAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 764.07,
+            "currencyCode": "NOK"
+          },
+          "retailPrice": {
+            "amount": 764.07,
+            "currencyCode": "NOK"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=8LP6DAAAQBAJ&rdid=book-8LP6DAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 764070000,
+                "currencyCode": "NOK"
+              },
+              "retailPrice": {
+                "amountInMicros": 764070000,
+                "currencyCode": "NOK"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Dan_Brown_Craze-sample-pdf.acsm?id=8LP6DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=8LP6DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The Da Vinci Code in the Academy. Newcastle, UK: Cambridge Scholars \u003cbr\u003e\nPublishing, 2007. Boyle, Alan. “In \u003cb\u003eDan Brown&#39;s\u003c/b\u003e &#39;Inferno,&#39; numeric riddles and \u003cbr\u003e\ncontroversial science mix.” “Today”, NBC News, May14, 2013. Accessed August \u003cbr\u003e\n5, 2014."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "_v1QMucvtUYC",
+        "etag": "ENSz9UxOeWE",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/_v1QMucvtUYC",
+        "volumeInfo": {
+          "title": "The Unauthorized Dan Brown Companion",
+          "authors": [
+            "John Helfers"
+          ],
+          "publisher": "Kensington Publishing Corp.",
+          "publishedDate": "2006-06-01",
+          "description": "The definitive truth within Dan Brown's fantastic fiction—revealed at last. With millions of copies of his books in print, a major motion picture based on The Da Vinci Code in theaters, and religious leaders everywhere launching scathing attacks on his work, Dan Brown is, quite simply, a phenomenon. His novels, intricate mosaics combining well-researched facts with action-packed storytelling, have created their own industry of location tours, seminars—even PBS specials. But perhaps the one thing that still keeps his readers guessing is that nagging question: How much of this is true? The Unauthorized Dan Brown Companion tells all. Unlike the avalanche of books specifically about The Da Vinci Code , The Unauthorized Dan Brown Companion covers all of Dan Brown's books and, crucially, has no religious agenda or political axe to grind—these are the facts. • Could there actually be an unbreakable code that would cripple US intelligence, as in Digital Fortress? • How much truth lies in The Da Vinci Code's history-altering propositions that have so angered the Vatican? • Are the Illuminati from Angels and Demons really alive and well? The answers are here, covering every picture, place, proper name, and historical event through all of Brown's books, explaining what's absolutely true, possible, improbable, or completely fictitious. One of Dan Brown's greatest accomplishments as a writer is his uncanny ability to blur the line between fact and fiction. Now, with The Unauthorized Dan Brown Companion, readers will at last have all of the information to distinguish for themselves between the inventions of a master storyteller and the historical revelations of a first-rate investigator. John Helfers is a full-time writer and editor currently living on Green Bay, Wisconsin. He is the co-editor of The Valdemar Companion, a guide to the work and life of fantasy writer Mercedes Lackey. Recent published books include two anthologies he edited, In the Shadow of Evil and Slipstreams. He has also written nonfiction, with his history of the United States Navy, The Alpha Bravo Delta Guide to the U.S. Navy, published in 2003.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780806535807"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0806535806"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 304,
+          "printType": "BOOK",
+          "categories": [
+            "Reference"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.5.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_v1QMucvtUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_v1QMucvtUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=_v1QMucvtUYC&pg=PT4&dq=dan+brown&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=_v1QMucvtUYC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_v1QMucvtUYC"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 117.25,
+            "currencyCode": "NOK"
+          },
+          "retailPrice": {
+            "amount": 102.59,
+            "currencyCode": "NOK"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=_v1QMucvtUYC&rdid=book-_v1QMucvtUYC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 117250000,
+                "currencyCode": "NOK"
+              },
+              "retailPrice": {
+                "amountInMicros": 102590000,
+                "currencyCode": "NOK"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Unauthorized_Dan_Brown_Companion-sample-epub.acsm?id=_v1QMucvtUYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Unauthorized_Dan_Brown_Companion-sample-pdf.acsm?id=_v1QMucvtUYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_v1QMucvtUYC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "the record, \u003cb\u003eDan Brown\u003c/b\u003e didn&#39;t start out his life planning to be a writer. In the end, \u003cbr\u003e\nhe became one almost by accident, thanks to a trip to the beach, Sidney Sheldon, \u003cbr\u003e\nand MTV. But that&#39;s jumping a long way ahead in the story. Yet even though he&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "h6U8CAAAQBAJ",
+        "etag": "zg6KRIN/dX8",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/h6U8CAAAQBAJ",
+        "volumeInfo": {
+          "title": "The Da Vinci Code",
+          "authors": [
+            "Dan Brown"
+          ],
+          "publisher": " ",
+          "publishedDate": "2004",
+          "description": "The world's bestselling book now a bestselling audio.",
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 604,
+          "printType": "BOOK",
+          "categories": [
+            "Art museum curators"
+          ],
+          "averageRating": 3,
+          "ratingsCount": 3313,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.2",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=h6U8CAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=h6U8CAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=h6U8CAAAQBAJ&dq=dan+brown&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.no/books?id=h6U8CAAAQBAJ&dq=dan+brown&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Da_Vinci_Code.html?hl=&id=h6U8CAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=h6U8CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The world&#39;s bestselling audiobook now being released in a special collectors&#39; box with film tie-in artwork, to coincide with the release of the long awaited film of Da Vinci Code."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "C8VReRvmCv4C",
+        "etag": "I2kYldIQ9Uc",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/C8VReRvmCv4C",
+        "volumeInfo": {
+          "title": "The Dan Brown Companion",
+          "authors": [
+            "Simon Cox"
+          ],
+          "publisher": "Random House",
+          "publishedDate": "2009-11-03",
+          "description": "With its in-depth look at some of the themes and real-life stories behind the fiction, The Dan Brown Companion gives a unique insight into the world of one of the most successful bestselling novelists of our time. A huge Dan Brown following has emerged, determined to walk in the footsteps of his lead character Robert Langdon and to delve deeper into the fiction. Simon Cox, bestselling author of Cracking the Da Vinci Code and Illuminating Angels and Demons, now brings us this definitive guide. Questions are answered and plots thickened as we look for the clues that inspired Dan Brown. From the death of popes to the Priory of Sion, the mystery of Rennes-le-Château to the Illuminati, all the facts are finally laid bare. The Dan Brown Companion is an exceptional guide to the real world of mystery and intrigue that lies at the heart of the Robert Langdon novels and is a must-have for all Dan Brown fans.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781907195105"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1907195106"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 284,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.6.1.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=C8VReRvmCv4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=C8VReRvmCv4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=C8VReRvmCv4C&pg=PT6&dq=dan+brown&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=C8VReRvmCv4C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C8VReRvmCv4C"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 95,
+            "currencyCode": "NOK"
+          },
+          "retailPrice": {
+            "amount": 95,
+            "currencyCode": "NOK"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=C8VReRvmCv4C&rdid=book-C8VReRvmCv4C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 95000000,
+                "currencyCode": "NOK"
+              },
+              "retailPrice": {
+                "amountInMicros": 95000000,
+                "currencyCode": "NOK"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Dan_Brown_Companion-sample-epub.acsm?id=C8VReRvmCv4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=C8VReRvmCv4C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Why does the world need another \u003cb\u003eDan Brown\u003c/b\u003e reference book? Surely there are \u003cbr\u003e\nquite enough of these around – over 70 at the last count. I should know: I was \u003cbr\u003e\npart of that whole new genre when I released both Cracking the Da Vinci Code \u003cbr\u003e\nand&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "IqPW7mqq6GIC",
+        "etag": "pZk/BJlQ4dk",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/IqPW7mqq6GIC",
+        "volumeInfo": {
+          "title": "Robert Langdon Omnibus",
+          "authors": [
+            "Dan Brown"
+          ],
+          "publisher": "Random House",
+          "publishedDate": "2005",
+          "description": "Thriller. Two books in one.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780593054604"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0593054601"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 844,
+          "printType": "BOOK",
+          "categories": [
+            "Anti-Catholicism"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 2,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.12.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IqPW7mqq6GIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IqPW7mqq6GIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=IqPW7mqq6GIC&dq=dan+brown&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.no/books?id=IqPW7mqq6GIC&dq=dan+brown&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Robert_Langdon_Omnibus.html?hl=&id=IqPW7mqq6GIC"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=IqPW7mqq6GIC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Thriller. Two books in one."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bMQJDYI3pmYC",
+        "etag": "gKrXh+QJDL4",
+        "selfLink": "https://content-books.googleapis.com/books/v1/volumes/bMQJDYI3pmYC",
+        "volumeInfo": {
+          "title": "The Infernos of Dante and Dan Brown",
+          "subtitle": "A Visitor's Guide to Hell: A Special from Tarcher/Penguin",
+          "authors": [
+            "Gary Jansen"
+          ],
+          "publisher": "Penguin",
+          "publishedDate": "2013-06-04",
+          "description": "A terrific companion to the new Dan Brown movie, Inferno! Take an extraordinary journey into the signs and symbols behind Dan Brown’s latest Robert Langdon thriller. Just in time for the blockbuster movie, this short guide introduces readers to Dante Alighieri’s fourteenth-century epic poem Inferno and explores how Brown uses Dante’s imagery and symbols in his fast-paced novel. The Infernos of Dante and Dan Brown: A Visitor’s Guide to Hell answers the questions and illuminates the facts behind Brown’s historical puzzles, cryptic clues, and plot twists. It allows every reader to immerse himself more deeply into Robert Langdon’s world. Author Gary Jansen is an independent scholar of Dante’s work and a critically acclaimed writer on modern religion. In addition to providing an inside perspective on how Dan Brown uses the uncanny and remarkable themes of Dante, Jansen presents a reliable and engaging overview of the Middle Ages poet and his work. The Infernos of Dante and Dan Brown is an all-around resource into the religious themes, historical secrets, and beguiling imagery behind this breathtaking new thriller.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780698135581"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "069813558X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 45,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bMQJDYI3pmYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bMQJDYI3pmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.no/books?id=bMQJDYI3pmYC&pg=PT7&dq=dan+brown&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=bMQJDYI3pmYC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bMQJDYI3pmYC"
+        },
+        "saleInfo": {
+          "country": "NO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28.83,
+            "currencyCode": "NOK"
+          },
+          "retailPrice": {
+            "amount": 28.83,
+            "currencyCode": "NOK"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=bMQJDYI3pmYC&rdid=book-bMQJDYI3pmYC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28830000,
+                "currencyCode": "NOK"
+              },
+              "retailPrice": {
+                "amountInMicros": 28830000,
+                "currencyCode": "NOK"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "NO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.no/books/download/The_Infernos_of_Dante_and_Dan_Brown-sample-epub.acsm?id=bMQJDYI3pmYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bMQJDYI3pmYC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "\u003cb\u003eDan Brown\u003c/b\u003e may be one of the most important writers living today. At first blush \u003cbr\u003e\nthis statement may sound like hyperbole. Certainly, academics and scholars \u003cbr\u003e\nwould think I&#39;m off my rocker, and would cite a recent Nobel Prize– winning \u003cbr\u003e\nauthor as&nbsp;..."
+        }
+      }
+    ]
+  }
+  
